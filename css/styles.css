@@ -1,0 +1,142 @@
+a
+{
+    color:#570A57;
+}
+
+body
+{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+h1
+{
+    margin-top: 50px;
+   font-family: 'Montez',cursive;
+   font-size: 5.625rem;
+   color:  #2E0249;
+   line-height: 2;
+
+}
+h2
+{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2.5rem;
+    color:#2E0249;
+    font-weight: normal;
+    line-height: 2;
+
+}
+h3
+{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #570A57;
+}
+hr
+{
+ border: dotted #EAF6F6 6px;
+ border-bottom: none;
+ width: 4%;
+ margin: 100px auto;
+
+}
+
+/*Classes*/
+
+.bottom-container
+{ 
+    padding: 50px;
+    background-color: #937DC2;
+}
+.bottom-cloud
+{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+
+.btn 
+{
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Josefin Sans';
+    color: #ffffff;
+    font-size: 20px;
+    background: #C3AED6 ;;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+  .btn:hover 
+{
+    background: #8e0ef0;
+    text-decoration: none;
+}
+
+.contact-me
+{
+    margin-bottom: 30px;
+}
+
+.doublemajor
+{
+  text-decoration: underline;
+}
+
+.footer-link
+{
+}
+
+.intro
+{
+    width:35%;
+    margin: 15px auto;
+}
+.middle-container
+{
+   
+}
+.profile
+{
+    margin-top: 50px;
+}
+.skill1
+{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
+.skill2
+{
+    width:25%;
+    float:right;
+    margin-left: 30px;
+}
+.skill-row
+{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-container
+{
+    background-color: #C3AED6 ;
+    position:relative;
+    padding-top: 50px;
+}
+.top-cloud
+{
+    position:absolute;
+    right: 300px;
+    top:50px;
+}
+
+/*ID*/
+#profilepic
+{
+    height:250px;
+    width: 250px;
+}
